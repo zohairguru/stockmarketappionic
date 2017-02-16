@@ -1,0 +1,14 @@
+angular.module('yourAppName.directives',[])
+
+
+
+
+
+
+
+
+
+
+
+
+;
